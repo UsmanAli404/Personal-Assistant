@@ -6,7 +6,10 @@ This repository contains **n8n workflows** for building a multi-agent AI system 
 - A **Custom Knowledge Base** for document-based Q&A
 
 ---
+## n8n Workflow
+![img](supervisor-workers-model.png)
 
+---
 ## 📝 Project Overview
 
 ### **Core Components**
